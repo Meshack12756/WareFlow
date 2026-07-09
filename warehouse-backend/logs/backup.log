@@ -1,0 +1,127 @@
+2026-06-25 07:29:39,373 - INFO - ========== Starting backup process ==========
+2026-06-25 07:29:39,454 - INFO - Backup directory: C:\Users\Admin\Desktop\warehouse-backend\backups
+2026-06-25 07:29:39,634 - INFO - Starting backup: pg_dump --host localhost --port 5432 --username postgres --no-password --format custom --file C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_07-29-39.sql.gz warehouse_db
+2026-06-25 07:29:41,936 - ERROR - pg_dump failed with code 1
+2026-06-25 07:29:41,947 - ERROR - stderr: pg_dump: error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2026-06-25 07:29:41,966 - ERROR - Backup process failed.
+2026-06-25 10:10:02,410 - INFO - ========== Starting backup process ==========
+2026-06-25 10:10:02,415 - INFO - Backup directory: C:\Users\Admin\Desktop\warehouse-backend\backups
+2026-06-25 10:10:02,417 - INFO - Starting backup: pg_dump --host localhost --port 5432 --username postgres --no-password --format custom --file C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_10-10-02.sql.gz warehouse_db
+2026-06-25 10:10:05,032 - INFO - Backup successful: C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_10-10-02.sql.gz (0.02 MB)
+2026-06-25 10:10:05,041 - INFO - No old backups to delete.
+2026-06-25 10:10:05,043 - INFO - Backup process completed successfully.
+2026-06-25 10:27:01,818 - INFO - ========== Starting backup process ==========
+2026-06-25 10:27:01,822 - INFO - Backup directory: C:\Users\Admin\Desktop\warehouse-backend\backups
+2026-06-25 10:27:01,824 - INFO - Starting backup: pg_dump --host localhost --port 5432 --username postgres --no-password --format custom --file C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_10-27-01.sql.gz warehouse_db
+2026-06-25 10:27:03,554 - INFO - Backup successful: C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_10-27-01.sql.gz (0.02 MB)
+2026-06-25 10:27:03,565 - INFO - No old backups to delete.
+2026-06-25 10:27:03,573 - INFO - Backup process completed successfully.
+2026-06-25 11:18:27,020 - INFO - ========== Starting backup process ==========
+2026-06-25 11:18:27,030 - INFO - Backup directory: C:\Users\Admin\Desktop\warehouse-backend\backups
+2026-06-25 11:18:27,034 - INFO - Starting backup: pg_dump --host localhost --port 5432 --username postgres --no-password --format custom --file C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_11-18-27.sql.gz warehouse_db
+2026-06-25 11:18:29,263 - INFO - Backup successful: C:\Users\Admin\Desktop\warehouse-backend\backups\backup_2026-06-25_11-18-27.sql.gz (0.02 MB)
+2026-06-25 11:18:29,311 - INFO - No old backups to delete.
+2026-06-25 11:18:29,331 - INFO - Backup process completed successfully.
+2026-06-25 23:20:45,385 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-26 04:46:31,847 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-26 05:07:43,865 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-29 04:28:27,566 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-06-29 05:50:43,226 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 01:01:47,694 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 01:42:03,282 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 03:10:33,364 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 03:47:28,852 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 04:41:54,813 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-01 05:54:47,054 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-02 00:00:54,160 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-02 04:34:36,164 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-02 08:11:47,039 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-03 13:34:16,397 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-06 02:39:20,847 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-07-08 00:43:51,791 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\warehouse-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'

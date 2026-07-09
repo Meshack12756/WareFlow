@@ -1,0 +1,6 @@
+#Ignore the env 
+.env
+
+#ignore the venv and backup file
+venv/
+backups/
