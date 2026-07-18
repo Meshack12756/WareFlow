@@ -1,10 +1,10 @@
-# 🏢 WareFlow – Enterprise Warehouse Management System
+## WareFlow – Enterprise Warehouse Management System
 
 **WareFlow** is a full‑stack warehouse management solution that integrates sales processing, inventory control, employee performance tracking, and real‑time analytics – all in one clean, modern platform.
 
 Built for logistics teams and warehouse operators, WareFlow helps you track stock levels, process sales, manage employee performance, and gain actionable insights with minimal friction.
 
-## ✨ Key Features
+## Key Features
 
 - **Product Management** – Full CRUD with search, filtering, and low‑stock alerts.
 - **Sales Processing** – Create sales with atomic inventory deduction and automatic profit calculation.
