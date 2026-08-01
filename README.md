@@ -16,4 +16,4 @@ Built for logistics teams and warehouse operators, WareFlow helps you track stoc
 - **Redis Caching** – High‑performance caching for product listings and inventory checks.
 - **Modern UI** – Built with Material‑UI, featuring smooth animations and responsive design.
 
-## Key Issues to Fix
+
