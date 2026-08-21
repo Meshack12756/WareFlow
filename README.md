@@ -17,6 +17,6 @@ Built for logistics teams and warehouse operators, WareFlow helps you track stoc
 - **Modern UI** – Built with Material‑UI, featuring smooth animations and responsive design.
 
 ## Key Changes to follow:
-- **First software version update**: Coming soon
+- **First software version update**: Coming soon!!
 
 
