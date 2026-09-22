@@ -4,7 +4,7 @@
 
 Built for logistics teams and warehouse operators, WareFlow helps you track stock levels, process sales, manage employee performance, and gain actionable insights with minimal friction.
 
-## Key Features
+## Key Features 
 
 - **Product Management** – Full CRUD with search, filtering, and low‑stock alerts.
 - **Sales Processing** – Create sales with atomic inventory deduction and automatic profit calculation.
